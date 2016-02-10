@@ -1,4 +1,4 @@
-var dsim = new Date(2015, 07, 16, 12, 50, 0,0);
+var dsim = new Date(2016, 04, 31, 12, 50, 0,0);
 var dme = new Date();
 var clock = $('.your-clock').FlipClock({
     countdown: true
